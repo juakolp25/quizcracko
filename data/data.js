@@ -1,7 +1,7 @@
 export const data = [
     {
         question: '¿Cual de las siguientes opciones no es un editor de codigo?',
-        choices: ['vim', 'vscode', 'emac', 'word', 'jatbrems'],
+        choices: ['vim', 'vscode', 'emac', 'word'],
         answer: 'word',
     },
     {
